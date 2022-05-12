@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Projects
 
-[MyLang](https://github.com/canolmezoglu/MyLang)
+**[MyLang](https://github.com/canolmezoglu/MyLang)**
 
 _A compiler for a programming language (MyLang) I co-designed. The programming language has 
 functions such as ability to start,stop and lock threads,recursive functions,2d arrays
@@ -14,8 +14,13 @@ GitHub project._
 <img src="images/compiler.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+**[SV Onwijs Website](https://bachelorshowcase-eemcs.apps.utwente.nl/view/6rs9XDFX/)**\
+
+_A website made for the study assocation Onwijs of University Of Twente. The website was
+made using Django and is temporarily deployed in hermes.student.utwente.nl using uwsgi
+and nginx._
+
+<img src="images/Poster.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
