@@ -5,6 +5,9 @@
 ### Category Name 1 
 
 [Project 1 Title](/sample_page)
+_A compiler for a programming language (MyLang) I co-designed. The programming language has 
+functions such as ability to start,stop and lock threads,recursive functions,2d arrays
+and pointers._
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
