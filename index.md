@@ -14,7 +14,7 @@ GitHub project._
 <img src="images/compiler.jpg?raw=true"/>
 
 ---
-**[SV Onwijs Website](https://bachelorshowcase-eemcs.apps.utwente.nl/view/6rs9XDFX/)**\
+**[SV Onwijs Website](https://bachelorshowcase-eemcs.apps.utwente.nl/view/6rs9XDFX/)**
 
 _A website made for the study assocation Onwijs of University Of Twente. The website was
 made using Django and is temporarily deployed in hermes.student.utwente.nl using uwsgi
