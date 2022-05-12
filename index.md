@@ -45,7 +45,16 @@ Collaborated with a hospital for better development and design._
 <img src="images/gg2.jpg?raw=true"/>
 
 ---
+**[Lock-In-Amplifier](/pdf/gg.pdf)**
 
+_A web application to store and analyze COVID data based on a 3 tier architecture                                           
+Used JAX-RS and Java for the backend, PostgreSQL for the database layer, HTML CSS and JS for the frontend
+My project group and I received the Best Project award given by the professors and the project mentor.
+Collaborated with a hospital for better development and design._
+
+<img src="images/gg2.jpg?raw=true"/>
+
+---
 
 
 
