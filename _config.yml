@@ -2,7 +2,9 @@ title: Can Olmezoglu # your name (or website title) here
 logo: "/images/me-side-photo.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   I am a 3rd year student studying Computer Science at the University of Twente
-  with extra honours classes in Mathematics. I also work as a research assistant
+  with extra honours classes in Mathematics. 
+  <br><br>
+  I also work as a research assistant
   at the Fraunhofer Innovation Platform and as a teaching assistant at the University of Twente.
   <br><br>
   <a href="https://www.linkedin.com/in/canolmezoglu/">View My LinkedIn Profile</a> 
