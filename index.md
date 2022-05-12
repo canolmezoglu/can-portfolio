@@ -35,6 +35,16 @@ Following the success of the project, I served as a teaching assistant for the n
 <img src="images/Graph-Isomorphism-V-V-1-V-2-V-3-V-4-V-4-E-V-1-V-2-V-1-V-3.png?raw=true"/>
 
 ---
+**[ECRF Hospital Data Storage System](https://github.com/canolmezoglu/2021_module7_group37_handin)**
+
+_A web application to store and analyze COVID data based on a 3 tier architecture                                           
+Used JAX-RS and Java for the backend, PostgreSQL for the database layer, HTML CSS and JS for the frontend
+My project group and I received the Best Project award given by the professors and the project mentor.
+Collaborated with a hospital for better development and design._
+
+<img src="images/Poster.jpg?raw=true"/>
+
+---
 
 ### Category Name 2
 
