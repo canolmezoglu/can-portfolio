@@ -32,7 +32,7 @@ Ideas from Hopcroft’s minimization algorithm were used to color refine graphs 
 In a University of Twente based competition, the program was in the 95th percentile with receiving a perfect score.
 Following the success of the project, I served as a teaching assistant for the next year._
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Graph-Isomorphism-V-V-1-V-2-V-3-V-4-V-4-E-V-1-V-2-V-1-V-3.png?raw=true"/>
 
 ---
 
