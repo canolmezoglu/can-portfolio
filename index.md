@@ -45,12 +45,12 @@ Collaborated with a hospital for better development and design._
 <img src="images/gg2.jpg?raw=true"/>
 
 ---
-**[Lock-In-Amplifier](/pdf/gg.pdf)**
+**[Lock-In-Amplifier](/pdf/gg3.pdf)**
 
 _A lock-in-amplifier made for an internship I made. It is made using C++ and QT and amplifies an
 input signal using a self-created filter._
 
-<img src="images/gg2.jpg?raw=true"/>
+<img src="images/tt.png?raw=true"/>
 
 ---
 
