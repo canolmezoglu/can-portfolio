@@ -17,7 +17,7 @@ GitHub project._
 ---
 **[SV Onwijs Website](https://bachelorshowcase-eemcs.apps.utwente.nl/view/6rs9XDFX/)**
 
-_A website made for the study assocation Onwijs of University Of Twente. The website was
+_A website made for the study association Onwijs of University Of Twente. The website was
 made using Django and is temporarily deployed in hermes.student.utwente.nl using Uwsgi
 and Nginx._
 
