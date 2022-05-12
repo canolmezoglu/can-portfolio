@@ -42,7 +42,7 @@ Used JAX-RS and Java for the backend, PostgreSQL for the database layer, HTML CS
 My project group and I received the Best Project award given by the professors and the project mentor.
 Collaborated with a hospital for better development and design._
 
-<img src="images/Poster.jpg?raw=true"/>
+<img src="images/gg2.jpg?raw=true"/>
 
 ---
 
