@@ -26,12 +26,11 @@ and Nginx._
 ---
 **[Graph Isomorphism and Automorphism Counter](https://github.com/canolmezoglu/2021_module7_group37_handin)**
 
-_ A Python program to count the number of automorphisms of a graph or isomorphisms between graphs.          
+_A Python program to count the number of automorphisms of a graph or isomorphisms between graphs.          
 The algorithm is based on AHU to calculate isomorphisms and automorphisms in subquadratic time
 Ideas from Hopcroft’s minimization algorithm were used to color refine graphs more efficiently
 In a University of Twente based competition, the program was in the 95th percentile with receiving a perfect score.
-Following the success of the project, I served as a teaching assistant for the next year.
-_
+Following the success of the project, I served as a teaching assistant for the next year._
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
