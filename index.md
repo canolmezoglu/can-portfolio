@@ -10,6 +10,7 @@ _A compiler for a programming language (MyLang) I co-designed. The programming l
 functions such as ability to start,stop and lock threads,recursive functions,2d arrays
 and pointers. More implementation details could be found in the report attached to the
 GitHub project._
+
 <img src="images/compiler.jpg?raw=true"/>
 
 ---
